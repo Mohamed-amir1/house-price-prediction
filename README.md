@@ -13,6 +13,8 @@ The dataset contains information about houses including:
 - Parking
 - Furnishing status
 - Other features
+- <img width="1246" height="478" alt="image" src="https://github.com/user-attachments/assets/b5de0dc2-3a83-4f3f-9c7e-f16466530f69" />
+
 
 ---
 
