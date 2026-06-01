@@ -32,7 +32,7 @@ The dataset contains information about houses including:
 ---
 
 ## 📈 Results
-- R² Score: **0.65**
+- R² Score: **0.59**
 - <img width="606" height="443" alt="image" src="https://github.com/user-attachments/assets/51380dfa-8be4-441b-9a07-1ebb67bf1cc2" />
 
 
