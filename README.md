@@ -40,13 +40,8 @@ This means the model explains approximately 65% of the variance in house prices.
 
 ---
 
-## 🚀 Future Improvements
-- Try advanced models like Random Forest and Gradient Boosting
-- Improve feature engineering
-- Handle outliers better
-- Hyperparameter tuning
 
----
+
 
 ## 🛠️ Tools & Libraries
 - Python
