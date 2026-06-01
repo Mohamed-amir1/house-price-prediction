@@ -36,7 +36,7 @@ The dataset contains information about houses including:
 - <img width="606" height="443" alt="image" src="https://github.com/user-attachments/assets/51380dfa-8be4-441b-9a07-1ebb67bf1cc2" />
 
 
-This means the model explains approximately 65% of the variance in house prices.
+This means the model explains approximately 59% of the variance in house prices.
 
 ---
 
