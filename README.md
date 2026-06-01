@@ -25,11 +25,12 @@ The dataset contains information about houses including:
 4. Encoding Categorical Variables
 5. Model Training (Linear Regression)
 6. Model Evaluation
+<img width="770" height="462" alt="image" src="https://github.com/user-attachments/assets/2ea0ccce-162b-42d6-8c71-d287a8573232" />
+
+## 📊 Correlation Heatmap
+Shows relationships between features and house price.
 
 <img width="1011" height="747" alt="image" src="https://github.com/user-attachments/assets/051ca529-16d6-4ed8-92db-bb23cf3f45bf" />
-### 📊 Correlation Heatmap
-Shows relationships between features and house price.
-<img width="770" height="462" alt="image" src="https://github.com/user-attachments/assets/2ea0ccce-162b-42d6-8c71-d287a8573232" />
 
 ---
 
