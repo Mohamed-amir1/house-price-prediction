@@ -13,6 +13,7 @@ The dataset contains information about houses including:
 - Parking
 - Furnishing status
 - Other features
+- <img width="1246" height="478" alt="image" src="https://github.com/user-attachments/assets/b5de0dc2-3a83-4f3f-9c7e-f16466530f69" />
 
 ---
 
@@ -23,6 +24,7 @@ The dataset contains information about houses including:
 4. Encoding Categorical Variables
 5. Model Training (Linear Regression)
 6. Model Evaluation
+ <img width="770" height="462" alt="image" src="https://github.com/user-attachments/assets/2ea0ccce-162b-42d6-8c71-d287a8573232" />
 
 ---
 
@@ -40,6 +42,7 @@ Shows relationships between features and house price.
 
 ## Results
 - R² Score: 0.59
+- <img width="606" height="443" alt="image" src="https://github.com/user-attachments/assets/51380dfa-8be4-441b-9a07-1ebb67bf1cc2" />
 
 This means the model explains approximately 59% of the variance in house prices.
 
@@ -57,7 +60,7 @@ This means the model explains approximately 59% of the variance in house prices.
 
 ## How to Run
 1. Clone the repository
-2. Open notebook.ipynb
+2. Open Housing.ipynb
 3. Run all cells
 
 ---
