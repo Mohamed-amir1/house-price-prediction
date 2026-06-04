@@ -60,7 +60,7 @@ This means the model explains approximately 59% of the variance in house prices.
 
 ## How to Run
 1. Clone the repository
-2. Open Housing.ipynb
+2. Open housing.ipynb
 3. Run all cells
 
 ---
